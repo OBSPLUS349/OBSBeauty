@@ -10,9 +10,10 @@
 # 安装使用流程如下：
 
 1.使用安装包下载
+<img width="863" height="508" alt="screenshot-20250822-162658" src="https://github.com/user-attachments/assets/e017cfa3-5c1a-4d67-9415-1f6127b4ec45" />
 
 
-![Uploading 90f134a224ccfb5f573b8f1caacf8e55_21c2ad54-4ad4-4f7a-b542-4b4a07959bd5.png…]()
+
 
 
 
