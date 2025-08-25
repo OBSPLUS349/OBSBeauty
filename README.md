@@ -14,7 +14,7 @@ OBS下载地址：d.obs.cn
 
 
 2.下载OBS美颜插件安装包：
-
+美颜安装包下载地址：download2.obsworks.com/channel/tig/Setup_obs_cam_beauty.exe
 
 <img width="947" height="564" alt="安装包-1" src="https://github.com/user-attachments/assets/fcfb4cca-b90d-4abf-b0e0-bfbd9d683a14" />
 
