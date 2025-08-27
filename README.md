@@ -7,7 +7,6 @@
 5.高性能低延迟：4K高清画质下保持60帧流畅输出，直播画面纵享丝滑
 官网地址：www.obsworks.com, 插件下载地址：www.obsworks.com/facebeauty
 
-[**English**](./README_en.md) | [**中文简体**](./README.md) |
 
 
 # 安装使用流程如下：
