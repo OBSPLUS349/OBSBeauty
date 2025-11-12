@@ -12,11 +12,11 @@
 # 安装使用流程如下：
 
 1.下载OBS直播软件，如果已经安装，直接跳到第二步
-OBS下载地址：https://d.obs.cn
+OBS下载地址：https://download.obsworks.com/installer/other/OBS-Studio-29.1.3-Full-Installer-x64.exe
 
 
 2.下载OBS美颜插件安装包：
-美颜安装包下载地址：https://download2.obsworks.com/channel/tig/Setup_obs_cam_beauty.exe
+美颜安装包下载地址：https://download.obsworks.com/installer/other/OBS_beauty_Filter_installer.exe
 
 <img width="947" height="564" alt="安装包-1" src="https://github.com/user-attachments/assets/fcfb4cca-b90d-4abf-b0e0-bfbd9d683a14" />
 
