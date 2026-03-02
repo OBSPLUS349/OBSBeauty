@@ -1,6 +1,6 @@
 # OBSBeauty
-随着直播的普及，就绕不开美颜直播，OBS是搭建直播内容的必备软件，那么如何在OBS开启美颜效果呢？下面我给大家推荐一款美颜摄像头插件，它有以下几个特点：
-1.深度定制开发：专为OBS打造的摄像头插件，无需外挂第三方软件，大幅降低系统资源占用，直播推流更稳定
+随着直播的普及，就绕不开美颜直播，OBS-studio是搭建直播内容的必备软件，那么如何在OBS-studio开启美颜效果呢？下面我给大家推荐一款美颜摄像头插件，它有以下几个特点：
+1.深度定制开发：专为OBS-studio打造的摄像头插件，无需外挂第三方软件，大幅降低系统资源占用，直播推流更稳定
 2.多种美颜效果：毫秒级响应磨皮/美白/瘦脸，保留五官细节同时提升肤质
 3.动态美体塑形：实时调整身形比例，支持背景虚化与多人同框精准识别
 4.全景适配：横屏竖屏无缝切换，摄像头旋转后仍自动校正美颜效果
@@ -11,17 +11,17 @@
 
 # 安装使用流程如下：
 
-1.下载OBS直播软件，如果已经安装，直接跳到第二步
+1.下载OBS-studio直播软件，如果已经安装，直接跳到第二步
 OBS下载地址：https://download.obsworks.com/installer/other/OBS-Studio-29.1.3-Full-Installer-x64.exe
 
 
-2.下载OBS美颜插件安装包：
+2.下载OBS-studio美颜插件安装包：
 美颜安装包下载地址：https://download.obsworks.com/installer/other/OBS_beauty_Filter_installer.exe
 
 <img width="947" height="564" alt="安装包-1" src="https://github.com/user-attachments/assets/fcfb4cca-b90d-4abf-b0e0-bfbd9d683a14" />
 
 
-3.打开OBS软件，登录插件中心：
+3.打开OBS-studio软件，登录插件中心：
 
 <img width="1280" height="722" alt="登录插件中心" src="https://github.com/user-attachments/assets/e5a3d5f1-31e2-4d88-9897-133a0ca5ee52" />
 
